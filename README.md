@@ -1,5 +1,6 @@
 # 💫 About Me:
-Passionate developer focused on building scalable Discord bots, automation systems, and modern backend solutions. Experienced in debugging complex systems, optimizing performance, and creating tools designed for reliability and user experience. Constantly learning, experimenting, and improving through real-world projects.<br>
+Built from curiosity. Refined by failure.
+
 
 
 ## 🌐 Socials:
