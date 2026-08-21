@@ -1,1 +1,2 @@
-Built from curiosity. Refined by failure.
+About me:
+> Built from curiosity. Refined by failure.
